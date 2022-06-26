@@ -1,0 +1,9 @@
+/* styles for faq page */
+.faq-container {
+    display: block;
+    padding:55px;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding-left: 25px !important;
+    padding-right: 25px!important;
+}
